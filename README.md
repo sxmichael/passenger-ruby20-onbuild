@@ -1,2 +1,2 @@
-# passenger-ruby22-onbuild
-Phusion Passenger Ruby 2.2 docker onbuild
+# passenger-ruby20-onbuild
+Phusion Passenger Ruby 2.0 docker onbuild
